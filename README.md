@@ -5,7 +5,7 @@ I am a passionate developer with experience in various web and desktop technolog
 
 ## Projects
 
-### [AI Interview Assistant](https://github.com/ArhamF/ai-interview-assistant)
+### [AI Interview Assistant]
 An innovative application designed to help users practice and improve their interviewing skills using AI. Still very much a work in prog!
 - **Technologies:** ```React.js```, ```Node.js```, ```Electron.js```, ```OpenAI GPT-3.5```, ```Whisper```
 - **Features:** Real-time audio recording and transcription, AI-powered responses, cross-platform desktop application
