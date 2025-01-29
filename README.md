@@ -1,7 +1,7 @@
 # Hey there! I'm Arham Farooqi 👋
 
 ## About Me
-I am a passionate developer with experience in various web and desktop technologies. I love building innovative and interactive applications that solve real-world problems.
+I am a passionate developer with experience in various web and desktop technologies. I love building innovative and interactive applications that solve real-world problems!
 
 ## Projects
 
