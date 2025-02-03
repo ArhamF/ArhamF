@@ -6,8 +6,8 @@ I am a passionate developer with experience in various web and desktop technolog
 ## Projects
 
 ### [Ai-Interview Assistant](https://github.com/ArhamF/ai-interview-assistant)
-An innovative application designed to help users practice and improve their interviewing skills using AI. Still very much a work in prog!
-- **Technologies:** ```React.js```, ```Node.js```, ```OpenAI GPT-3.5```, ```Whisper```
+An innovative application designed to help users practice and improve their interviewing skills using AI. Almost done to what I envisioned for it!
+- **Technologies:** ```React.js```, ```Node.js```, ```Ollama```, ```Whisper```
 - **Features:** Real-time audio recording and transcription, AI-powered responses, cross-platform desktop application
 
 ### [Portfolio](https://github.com/ArhamF/portfolio)
