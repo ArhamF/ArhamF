@@ -5,6 +5,11 @@ I am a passionate developer with experience in various web and desktop technolog
 
 ## Projects
 
+### [HobbyForge](https://github.com/ArhamF/hobbyforge)
+HobbyForge is an AI-driven app that acts as a "hobby concierge.” It curates personalized hobby recommendations, provides step-by-step mastery plans, and connects users with local or global communities to keep them engaged. This large-scale project is still in its very early phases!
+- **Technologies:** ```Next.js```, ```Node.js```, ```FastAPI```, ```PostgreSQL```, ```MongoDB```
+- **Features:** AI Hobby Matchmaker, Real-Time Feedback System
+
 ### [Ai-Interview Assistant](https://github.com/ArhamF/ai-interview-assistant)
 An innovative application designed to help users practice and improve their interviewing skills using AI. Almost done to what I envisioned for it!
 - **Technologies:** ```React.js```, ```Node.js```, ```Ollama```, ```Whisper```
@@ -15,10 +20,6 @@ My personal portfolio website showcases my projects, skills, and contact informa
 - **Technologies:** ```TypeScript```, ```React```, ```Tailwind CSS```
 - **Features:** Responsive design, project showcases, contact form
 
-### [HobbyForge](https://github.com/ArhamF/hobbyforge)
-HobbyForge is an AI-driven app that acts as a "hobby concierge.” It curates personalized hobby recommendations, provides step-by-step mastery plans, and connects users with local or global communities to keep them engaged. This large-scale project is still in its very early phases!
-- **Technologies:** ```	Next.js```, ```Node.js```, ```FastAPI```, ```PostgreSQL```, ```MongoDB```
-- **Features:** AI Hobby Matchmaker, Real-Time Feedback System
 
 ## Skills
 - **Languages:** ```JavaScript```, ```TypeScript```, ```HTML```, ```CSS```
