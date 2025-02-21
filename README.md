@@ -11,14 +11,14 @@ An innovative application designed to help users practice and improve their inte
 - **Features:** Real-time audio recording and transcription, AI-powered responses, cross-platform desktop application
 
 ### [Portfolio](https://github.com/ArhamF/portfolio)
-My personal portfolio website showcasing my projects, skills, and contact information.
+My personal portfolio website showcases my projects, skills, and contact information.
 - **Technologies:** ```TypeScript```, ```React```, ```Tailwind CSS```
 - **Features:** Responsive design, project showcases, contact form
 
-### [Interactive Contact Card](https://github.com/ArhamF/contact-card)
-An interactive business card component with responsive design and animations.
-- **Technologies:** ```React```, ```Tailwind CSS```, ```Lucide```
-- **Features:** Hover effects, gradient animations, social media links
+### [HobbyForge](https://github.com/ArhamF/hobbyforge)
+HobbyForge is an AI-driven app that acts as a "hobby concierge.” It curates personalized hobby recommendations, provides step-by-step mastery plans, and connects users with local or global communities to keep them engaged. This large-scale project is still in its very early phases!
+- **Technologies:** ```	Next.js```, ```Node.js```, ```FastAPI```, ```PostgreSQL```, ```MongoDB```
+- **Features:** AI Hobby Matchmaker, Real-Time Feedback System
 
 ## Skills
 - **Languages:** ```JavaScript```, ```TypeScript```, ```HTML```, ```CSS```
