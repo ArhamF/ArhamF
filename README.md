@@ -24,4 +24,4 @@ My personal portfolio website showcases my projects, skills, and contact informa
 ## Skills
 - **Languages:** ```JavaScript```, ```TypeScript```, ```HTML```, ```CSS```
 - **Frameworks:** ```React```, ```Next.js```, ```Node.js```
-- **Tools:** ```Git```, ```Webpack```, ```Babel```, ```npm```
+- **Tools:** ```Git```, ```npm```
